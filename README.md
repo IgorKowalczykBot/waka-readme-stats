@@ -1,3 +1,10 @@
+# ‼️ This repository is no longer in use!
+### The repository has been rewritten to Javascript and has been moved [here](https://github.com/igorkowalczyk/igorkowalczyk)!
+
+---
+
+<br/>
+
 > Looking For Translation to different languages & Locale  [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
 
 # Dev Metrics in Readme with added feature flags 🎌
